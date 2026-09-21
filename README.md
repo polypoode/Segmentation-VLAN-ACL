@@ -4,7 +4,7 @@
 
 Vous êtes technicien réseau et vous intervenez chez MédiaSud, une PME de 45 collaborateurs spécialisée dans l'édition numérique. Jusqu'ici, l'ensemble du réseau interne fonctionnait sur un unique réseau plat (flat network) : tous les postes, serveurs et équipements partagent le même domaine de broadcast.
 
-Suite à un audit de sécurité, plusieurs problèmes ont été identifiés :
+Suite à un audit de sécurité, plusieurs problèmes ont été identifiés:
 
 - Un stagiaire a accidentellement accédé au serveur de paie depuis son poste.
 - Des visiteurs connectés au Wi-Fi pouvaient voir les partages réseau internes.
