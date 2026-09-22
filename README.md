@@ -2,6 +2,10 @@
 
 ## Contexte
 
+# Challenge : Segmentation VLAN & Contrôle d'accès (ACL)
+
+## Contexte
+
 Vous êtes technicien réseau et vous intervenez chez MédiaSud, une PME de 45 collaborateurs spécialisée dans l'édition numérique. Jusqu'ici, l'ensemble du réseau interne fonctionnait sur un unique réseau plat (flat network) : tous les postes, serveurs et équipements partagent le même domaine de broadcast.
 
 Suite à un audit de sécurité, plusieurs problèmes ont été identifiés:
@@ -50,4 +54,8 @@ Vous devez construire la topologie suivante dans Packet Tracer :
 
 ---
 
+<<<<<<< HEAD
 Projet réalisé au sein de la formation O'Clock.
+=======
+Projet réalisé au sein de la formation O'Clock.
+>>>>>>> 5fe82ab17cd202a16201172f6c9e31d277e03ef7
